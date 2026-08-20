@@ -172,7 +172,7 @@ class ProfilePage extends StatelessWidget {
                   ),
                   TextButton.icon(
                     onPressed: () {
-                      showMessage(context, 'Thanks for viewing my profile!');
+                      showMessage(context, 'Thanks for viewing my profil!');
                     },
                     icon: Icon(Icons.thumb_up),
                     label: Text('Like Profile'),
